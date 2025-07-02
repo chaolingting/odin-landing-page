@@ -94,7 +94,7 @@ h1, h2, h3, p{
 
 .head .texts,
 .head img {
-  flex: 1 1 500px; /* 讓它有彈性縮放並設定最小寬度 */
+  flex: 1 1 500px; /* flex grow/shrink/basis */
 
 }
 
